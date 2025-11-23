@@ -23,26 +23,26 @@ repository               : "qingwendeng0920/qingwendeng0920.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile_qingwen.png"
+  name             : "Qingwen"
+  pronouns         : "he/him"  
+  bio              : "Causal Inference Man"
+  location         : "Durham, NC, United States"
+  employer         : "Duke University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qingwen.deng@duke.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #inspire-hep      : # URL
+  #impactstory      : # URL
+  #orcid            : "https://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
