@@ -1,7 +1,7 @@
 ---
 title: "Research"
-layout: single
-permalink: /research/
+layout: "single"
+permalink: "/research/"
 topics:
   - "Authoritarian Institutions"
   - "Environment & Health"
