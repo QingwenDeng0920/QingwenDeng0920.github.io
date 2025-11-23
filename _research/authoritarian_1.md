@@ -1,7 +1,6 @@
 ---
 title: "Authoritarian Institutions"
 collection: research
-type: "Workshop"
 permalink: /research/authoritarian_1
 ---
 
