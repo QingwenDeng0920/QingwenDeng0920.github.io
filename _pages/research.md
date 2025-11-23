@@ -8,7 +8,6 @@ topics:
   - "Methodology"
 ---
 
-{% raw %}
 {% for topic in page.topics %}
 ## {{ topic }}
 {% assign items = site.research | where: "topic", topic | sort: "year" | reverse %}
@@ -20,4 +19,3 @@ topics:
 {% endfor %}
 
 {% endfor %}
-{% endraw %}
