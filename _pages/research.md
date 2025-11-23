@@ -4,8 +4,8 @@ layout: "single"
 permalink: "/research/"
 topics:
   - "Authoritarian Institutions"
-  - "Environment & Health"
-  - "Methods"
+  - "Natural Resources, Environment and Health"
+  - "Methodology"
 ---
 
 {% for topic in page.topics %}
