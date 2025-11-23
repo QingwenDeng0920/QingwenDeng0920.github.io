@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student in [Department of Economics](https://econ.duke.edu/) and [Department of Political Science](https://polisci.duke.edu/), Duke University. Before joining in Duke, I obtained my bachelor degree in arts from Renmin University of China majoring in Economics and Agricultural Economics.
+I am currently a master student in [Department of Economics](https://econ.duke.edu/) and [Department of Political Science](https://polisci.duke.edu/), Duke University. Before joining in Duke, I obtained my bachelor degree in arts from [School of Applied Economics, Renmin University of China](http://ae.ruc.edu.cn/) majoring in Economics and Agricultural Economics.
 
-My Research interest includes Political Economy of Natural Resource, Environment and Health with a focus on Authoritarian regimes. Besides, I am also interested in Political Methodology with a focus on Causal Inference, Bayesian Models and Machine Learning for Social Science.
+My research spans the comparative political economy of authoritarian institutions; environmental and natural-resource governance; causal inference and research design; and Bayesian modeling and machine learning for the social sciences.
 
-
+At Duke University, I am advised by Timur Kuran, Daniel Stegemuller, Jiawei Fu and Martin D. Smith.
