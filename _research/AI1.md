@@ -1,5 +1,5 @@
 ---
-title: "From Campaigns to Institutions: Fragmented Adminstrative and Environmental Governance in China"
+title: "From Campaigns to Institutions: Fragmented Administrative and Environmental Governance in China"
 topic: "Authoritarian Institutions"
 status: "In Progress"
 coauthors: ""
