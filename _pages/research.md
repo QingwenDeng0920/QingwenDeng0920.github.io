@@ -1,10 +1,23 @@
 ---
 title: "Research"
-layout: collection
+layout: single
 permalink: /research/
-collection: research
-entries_layout: list   # 或 grid
-sort_by: year
-sort_order: reverse
-classes: wide         #（可选）页面加宽
+topics:
+  - "Authoritarian Institutions"
+  - "Natural Resources, Environment and Health"
+  - "Methodology"
 ---
+
+{% raw %}
+{% for topic in page.topics %}
+## {{ topic }}
+{% assign items = site.research | where: "topic", topic | sort: "year" | reverse %}
+{% if items.size == 0 %}
+*Coming soon.*
+{% endif %}
+{% for p in items %}
+- **{{ p.title }}**{% if p.coauthors %}, with {{ p.coauthors }}{% endif %}{% if p.status %} ({{ p.status }}){% endif %}
+{% endfor %}
+
+{% endfor %}
+{% endraw %}
