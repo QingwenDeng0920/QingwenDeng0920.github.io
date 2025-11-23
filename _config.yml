@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Qingwen Deng's Personal Website"
+title                    : "Qingwen Deng | Home"
 title_separator          : "-"
 name                     : &name "Qingwen Deng"
 description              : &description "Qingwen Deng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
