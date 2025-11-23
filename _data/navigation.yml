@@ -9,7 +9,7 @@
 
 main:
   - title: "Research"
-    url: /Research/
+    url: /_research/
 
   - title: "Fun Facts"
     url: /funfacts    
